@@ -30,3 +30,7 @@ the projects runtime path.
 in the Projects window and choose Properties. Then click Run and enter the
 class name in the Main Class field. Alternatively, you can manually type the
 class name in the manifest Main-Class element.
+
+
+
+##https://medium.com/machina-sapiens/como-criar-uma-rede-neural-em-javascript-com-apenas-30-linhas-de-c%C3%B3digo-63273d83dc04
